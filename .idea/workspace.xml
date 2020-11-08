@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc1c4003-5045-4694-849b-bd3c0f43cdf0" name="Default Changelist" comment="Add rules into .exclude">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitinore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1.2. Site For Import.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/NeuroStartUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/NeuroStartUp.png_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/NeuroStartUpIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adv-accuracy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adv-price.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adv-speed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/promo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html_old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bootstrap-4.1.3-dist.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="4b22b793-9db1-47ec-b01a-65da08b71cde" />
+  <component name="ProjectId" id="1k0YsTlY99VEkBmr4YEG2P9UOk4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc1c4003-5045-4694-849b-bd3c0f43cdf0" name="Default Changelist" comment="" />
+      <created>1604839182763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604839182763</updated>
+      <workItem from="1604839183796" duration="1700000" />
+      <workItem from="1604844269539" duration="127000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add files">
+      <created>1604843511309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604843511309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add .gitignore">
+      <created>1604843623957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604843623957</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add rules into .gitignore">
+      <created>1604843826633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604843826633</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add rules into .gitignore">
+      <created>1604843909356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604843909356</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add files" />
+    <MESSAGE value="Add .gitignore" />
+    <MESSAGE value="Add rules into .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add rules into .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604843585368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604843585368" />
+  </component>
+</project>
